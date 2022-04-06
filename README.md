@@ -50,7 +50,7 @@ while True:
         # break the while loop if answer is no
         next_calculation = input("Let's do next calculation? (yes/no): ")
         if next_calculation == "no":
-          break
+          break1
     
     else:
         print("Invalid Input")
