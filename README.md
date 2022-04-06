@@ -1,2 +1,2 @@
 # hello_world
-My first work
+My first repository
